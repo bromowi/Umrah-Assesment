@@ -1,0 +1,38 @@
+.Judul{
+    margin-top: 2.5rem;
+}
+
+.Atas{
+    margin-left: 2rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.Baru{
+    margin-right: 1rem;
+    
+}
+
+.Cari{
+    width: 95%;
+    margin-left: 2.5%;
+}
+
+.Tengah{
+    margin-left: 91%;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.Kartu{
+    margin-top: 2rem;
+}
+
+.Posisi{
+    margin-left: 2rem;
+}
+
+.Bawah{
+    margin-right: 4%;
+    margin-left: -2rem;
+}

@@ -1,0 +1,44 @@
+.H1{
+
+    margin-top: 1.5rem;
+};
+
+.H2{
+    margin-top: 6rem;
+    margin-right: 30rem;
+}
+
+.Tombol1{
+    margin-left: 82%;
+}
+.Kolom{
+    width: 97%;
+    margin-left: 1rem;
+}
+
+.Cari1{
+    margin-right: 1rem;
+}
+
+.Tombol2{
+    margin-top: 1.5rem;
+    margin-left: 90%;
+}
+
+.Kartu2{
+    margin-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+.Kartu1{
+    margin-bottom: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.Kualiti{
+    width: 30%;
+}
+
+.Ktg{
+    margin-left: 1rem;
+    margin-top: 1rem;
+}

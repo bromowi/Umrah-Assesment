@@ -1,0 +1,37 @@
+.All{
+    
+    position: relative;
+    
+}
+
+.Card{
+    width: 50%;
+    align-items: center;
+    position: relative;
+    justify-content: center;
+    margin-left: 20%;
+    padding: 10%;
+    border:none;
+}
+
+.Welcome{
+position: relative;
+align-items: center;
+text-align: center;
+font-size: 120%;
+margin-bottom: 10%;
+
+}
+
+.Form{
+    border: black;
+
+    width: 5%;
+}
+
+.Button{
+    margin-left: 65%;
+
+   
+    
+}
